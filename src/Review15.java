@@ -8,7 +8,7 @@ public class Review15 {
             } else if (num % 2 == 1) {
                 System.out.println("奇数");
             }
-        } catch (NumberFormatException e){
+        } catch (NumberFormatException e) {
             System.out.println("無効な入力です。");
         }
     }
