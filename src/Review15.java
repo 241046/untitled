@@ -10,7 +10,6 @@ public class Review15 {
             }
         } catch (NumberFormatException e) {
             System.out.println("無効な入力です。");
-
         }
     }
 }
