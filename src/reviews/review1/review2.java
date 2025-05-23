@@ -1,3 +1,5 @@
+package reviews.review1;
+
 public class review2 {
     public static void main(String[] args){
         System.out.println(20 + 30 + "50" + 7 + 1);
