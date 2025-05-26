@@ -1,3 +1,5 @@
+package reviews.review2;
+
 public class Review15 {
     public static void main(String[] args) {
         String A = new java.util.Scanner(System.in).nextLine();
